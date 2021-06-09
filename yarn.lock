@@ -4076,10 +4076,10 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
-custom-env@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/custom-env/-/custom-env-1.0.2.tgz#27c4db6a0caf274b112a78a32d60f5b8674a2c0c"
-  integrity sha512-PvhrR0te1RtS74fLN+wF8Qr9uCem7FuErK+DSaocIt94/Ic25rqwUVB4sj86Burv4xM19LPBssaXkk6LLm3OEQ==
+custom-env@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/custom-env/-/custom-env-2.0.1.tgz#30afaf5200f43aa86731f81576387f5d2af2c51b"
+  integrity sha512-gVv19DBDuTQ8MM/WPlf8025Aa46Aqmfrr/kDxyDfXWe5t7C3+OgBsuhrsXTKQ4hGo+z1OuuaOQnhgTWIpvrz+w==
   dependencies:
     dotenv "*"
     dotenv-expand "^5.0.0"
