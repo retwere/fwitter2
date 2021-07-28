@@ -49,6 +49,6 @@
     ]
   },
   "devDependencies": {
-    "envfile": "^5.2.0"
+    "envfile": "^6.15.0"
   }
 }
